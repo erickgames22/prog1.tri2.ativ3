@@ -1,6 +1,7 @@
 Escreva trechos de códigos que justiquem a necessidade da existencia dos temas abaixo em a objetos, se necessário compare com programçaõ funcional para justificativa, adicione ao topo de seus arquivos comentários que justifiquem a abordagem tomada na solução (para cada tópico faça duas soluções diferentes):
 
 ## 1. Classes e objetos
+[Link - Classes e Objetos](https://www.typescriptlang.org/play/?#code/PQKgUAUgqgygKgSQGIIMIEFEDV0C4xjoAEAxgDYCGAzlQKZEAmtAZgJYB29ArgLZE8B7JmQFEADhQBOFIpNpi5ddgBcp42jQHUAdGADyRAQCMAVrWWiAl0V4yOVZQCP2JVjKY16g4QN2EitAAerA4AVy5ujDLk1HQBAG6sqrLy5qySRBTKkqxGXBZUAaQCPGICkqo8tCoCVGB0pXJEAI5c3Dwy7ALxMmIaVFricq5UanQZJDkUDBS6IMAEMTREAAr9gwDeYEQ7xewOklwkFpIAFGJcRmSsJERdVbhEBxwA5gCURBsAvgS7mQoaaqqM5vR7xASsBifbZ-XYkAT7ARkWjaEQvU4AAz0ZAAhwAafi0Lh3Er0awAEg2ygAFiFtPdaF8MW8ANwwnY-H5gYDAIh6UzmUSTNwMUS9KTKdJRUiUTyrdYUMDw-bKdSaGQAXjutAA7vL1acAEQQAQAY4EhtZBD66u0FABSmBp1ZQA)
 
 ## 2. Atributos e métodos
 
